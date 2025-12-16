@@ -34,4 +34,3 @@ jobs:
           name: Lavalink.jar
           path: |
             LavalinkServer/build/libs/Lavalink.jar
-            LavalinkServer/build/libs/Lavalink-musl.jar
